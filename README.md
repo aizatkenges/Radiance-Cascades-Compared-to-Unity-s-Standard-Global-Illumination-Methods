@@ -1,31 +1,31 @@
-Radiance Cascades Compared to Unity’s Standard Global Illumination Methods
+RADIANCE CASCADES COMPARED TO UNITY’S STANDARD GLOBAL ILLUMINATION METHODS
 
-DIGRA Conference Experiment Setup
+DIGRA CONFERENCE EXPERIMENT SETUP
 
-This repository contains the experimental materials for the research paper “Comparative Evaluation of Real-Time Global Illumination Methods in Unity URP.”
+This repository contains the experimental materials for the research paper:
 
-The project compares Radiance Cascades with Unity’s standard global illumination methods, evaluating real-time rendering performance and visual quality.
+"Comparative Evaluation of Real-Time Global Illumination Methods in Unity URP"
 
-Contents
-Raw FPS and frame-time datasets collected during the experiments.
-Generated figures used in the research paper.
-Rendered videos for visual comparison.
-Visual Comparison Videos
+CONTENTS
+Raw FPS and frame-time datasets
+Generated figures used in the paper
+Rendered videos for visual comparison
+VISUAL COMPARISON VIDEOS
 
-The rendered comparison videos are available on YouTube:
+The rendered video comparisons are available on the following YouTube playlist:
 
-Watch the Global Illumination Comparison Playlist
+https://www.youtube.com/watch?v=daDjPJyB86o&list=PLaHv1eGKS6CyZF2IG05RV7KAHvvU5-xIQ
 
-Engine Version
+ENGINE VERSION
 Unity 6000.2.12f1
 Universal Render Pipeline (URP)
-Hardware
-GPU: NVIDIA RTX 4060 Laptop GPU
-CPU: Intel Core i7-13620H
-My Contribution
+HARDWARE
+NVIDIA RTX 4060 Laptop GPU
+Intel Core i7-13620H
+MY CONTRIBUTION
 
-My contribution to this project involves preparing and organizing the experimental materials for the comparative evaluation of real-time global illumination methods in Unity URP, including performance datasets, generated figures, and visual comparison recordings.
+My contribution to this project includes preparing and organizing the experimental materials for the comparative evaluation of real-time global illumination methods in Unity URP, including performance datasets, generated figures, and rendered video comparisons.
 
-License
+LICENSE
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+MIT License
