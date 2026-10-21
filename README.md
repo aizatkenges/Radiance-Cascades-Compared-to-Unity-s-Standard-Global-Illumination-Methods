@@ -1,31 +1,31 @@
-RADIANCE CASCADES COMPARED TO UNITY’S STANDARD GLOBAL ILLUMINATION METHODS
+Radiance Cascades Compared to Unity’s Standard Global Illumination Methods
 
-DIGRA CONFERENCE EXPERIMENT SETUP
+DIGRA Conference Experiment Setup
 
 This repository contains the experimental materials for the research paper:
 
 "Comparative Evaluation of Real-Time Global Illumination Methods in Unity URP"
 
-CONTENTS
+Contents
 Raw FPS and frame-time datasets
 Generated figures used in the paper
-Rendered videos for visual comparison
-VISUAL COMPARISON VIDEOS
+Rendered videos recorded for visual comparison
+Visual Comparison Videos
 
 The rendered video comparisons are available on the following YouTube playlist:
 
-https://www.youtube.com/watch?v=daDjPJyB86o&list=PLaHv1eGKS6CyZF2IG05RV7KAHvvU5-xIQ
+Watch the Global Illumination Comparison Videos
 
-ENGINE VERSION
-Unity 6000.2.12f1
-Universal Render Pipeline (URP)
-HARDWARE
-NVIDIA RTX 4060 Laptop GPU
-Intel Core i7-13620H
-MY CONTRIBUTION
+Engine Version
+Unity: 6000.2.12f1
+Rendering Pipeline: Universal Render Pipeline (URP)
+Hardware
+GPU: NVIDIA RTX 4060 Laptop GPU
+CPU: Intel Core i7-13620H
+My Contribution
 
-My contribution to this project includes preparing and organizing the experimental materials for the comparative evaluation of real-time global illumination methods in Unity URP, including performance datasets, generated figures, and rendered video comparisons.
+My contribution to this project includes preparing and organizing the experimental materials for the comparative evaluation of real-time global illumination methods in Unity URP, including performance datasets, generated figures, and visual comparison recordings.
 
-LICENSE
+License
 
 MIT License
